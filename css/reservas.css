@@ -1,0 +1,19 @@
+.rodape {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	padding-right: 1rem;
+	text-align: right;
+}
+.form-padrao {
+	width: 23rem;
+	text-align: left;
+}
+.table-padrao {
+	width: 68rem;
+	text-align: center;
+}
+.mensagem {
+	text-align: left;
+}
